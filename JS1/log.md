@@ -1,7 +1,7 @@
 ## Day 1 - 18th June 2020
-Todays Progress:
+Todays Progress: How JS and HTML integrates, Two ways to run JS code either using node on a terminal or using <script> tags within HTML code on a web browser. Using document.querySelector function to identify elements.
 
-Thoughts:
+Thoughts: Learned about some basic html tags and running JS scirpt within a web browser. Nothing really challenging today, feeling confident and relaxed.  Although document.querySelector seems a little confusing, I am not sure what is the purpose of this function. More reading required on that!
 
 Link to Work 
 
