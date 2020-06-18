@@ -1,0 +1,49 @@
+<!--- there are 6 header tags h1 to h6
+//HTML element is everything from the opening tag to closing
+<tagname>Content</tagname> --->
+
+<h1>Welcome!</h1>
+<h2>JS1</h2>
+<h5>Challenge 1</h5>
+<input type="text" />
+<input type="number" />
+<input type="password" />
+<input type="date" />
+<input />
+<button>Submit</button>
+<hr /> <!----creates horizontal line -->
+
+<!--Attributes
+provides more information about tag to the browser
+e.g <input type="password"> 
+Tags can have multiple attributes
+class tags in later section
+Sources to learn more about html tags w3schools.com, mozilla.org-->
+
+<input class="c1input1" type="text" />
+
+<!--Browser JavaScript
+JS is used to manipulate HTML elements on a page base on different
+variables such as how much time has gone, info from other sites
+referred to as dynamic behavior as compared to static html sites
+its done by adding <script> tag-->
+<script>
+    alert("Whats' Up World")
+</script>
+
+<!--Document selector takes a string argument and returns the first element that matches that string
+to get multiple input elements is use a class attribute for each element
+.input tells the function (document.selectquery) to look for elements by class name not inputs
+-->
+<h1>Another Welcome</h1>
+<h2>JS1</h2>
+<h5>Still on Challenge 1</h5>
+<input class="input1" type="number" />
+<input class="input2" type="text" />
+<button class="submit1"> Submit</button>
+<script>
+const jon = document.querySelector('input') 
+const element1 = document.querySelector('.input1')
+const element2 = document.querySelector('.input2')
+const button1 = document.querySelector('.submit1')
+</script>
