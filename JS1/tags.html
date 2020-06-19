@@ -32,7 +32,7 @@ its done by adding <script> tag-->
 </script>
 
 <!--Document selector takes a string argument and returns the first element that matches that string
-to get multiple input elements is use a class attribute for each element
+to get multiple input elements is to use a class attribute for each element
 .input tells the function (document.selectquery) to look for elements by class name not inputs
 -->
 <h1>Another Welcome</h1>
@@ -40,10 +40,65 @@ to get multiple input elements is use a class attribute for each element
 <h5>Still on Challenge 1</h5>
 <input class="input1" type="number" />
 <input class="input2" type="text" />
+<input class="input3" type="text" />
 <button class="submit1"> Submit</button>
 <script>
 const jon = document.querySelector('input') 
 const element1 = document.querySelector('.input1')
 const element2 = document.querySelector('.input2')
+const element3 = document.querySelector('.input3')
 const button1 = document.querySelector('.submit1')
+</script>
+
+<!---An element can have more than one class, assigning multiple classes to an element-->
+
+<input class="input5 input hello" type="text" />
+<script>
+const element1 = document.querySelector('.input5')
+const element2 = document.querySelector('.input')
+const element3 = document.querySelector('.hello')
+
+const isOneTwoSame = element1 === element2 // true cuz de are all in the same class
+const isOneThreeSame = element1 === element3 // true
+const isTwoThreeSame = element2 === element3 // true
+
+const isSame = element1 === document.querySelector('.hello.input') // true
+
+</script>
+
+<!--Element Properties
+properties tell the browser what dynamic behavior to give elements
+Onclick properties - anytime u click on an element, the element's onclick event will tell the browser what todo
+-->
+
+<button class="submit2">Click Me</button>
+<script>
+    const button2 = document.querySelector('.submit2')
+    button2.onclick = () => {
+        alert("Damn Son")
+        alert("What are those?")
+    }
+</script>
+
+<!---Value - used to get the value of whatever the user typed in as a pop on the screen
+code below referenced the elements above for Another Welcome-->
+<script>
+    const inputButton = document.querySelector('.submit1')
+    const secondInput = document.querySelector('.input2')
+    const thirdInput = document.querySelector('.input3')
+
+    inputButton.onclick = () => {
+        alert(secondInput.value)
+        alert(thirdInput.value)
+
+        //group them as one as compared to multiple pop ups but works with numbers by addition
+    inputButton.onclick = () => {
+        const secondInputValue = +secondInput.value
+        const thirdInputValue = +thirdInput.value
+        alert(secondInputValue + thirdInputValue)
+
+        
+    }
+}  
+
 </script>
