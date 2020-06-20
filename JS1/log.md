@@ -8,5 +8,9 @@ Todays Progress: More on document.querySelector, Element properties (onClick and
 
 Thoughts: After several examples, i got the concept of document.querySelector when it is in use with onclick or value properties, basically used to obtain or identify elements (buttons, textbox etc). Cool concept is changing or setting input value taken from the user. Good for scripting attacks i guess. Tomorrow is all Exercises. Am excited.
 
+## Day 3 - 20th June 2020
+Todays Progress: No new topics, just practised questions on Yesterdays topic. The exercises are to implement the challenges from JS0 as html files.
+
+Thoughts: Creating a funtion in a function is a little challenging but after going through steps by steps and repetition, the concepts might be clear. So far So good. 
 
 Tweet: [Here](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)
