@@ -1,0 +1,17 @@
+<input class="input1" type="text" />
+<input class="input2" type="text" />
+<button class="button1">Sum of Numbers</button> 
+
+<script>
+    const input1 = document.querySelector('.input1')
+    const input2 = document.querySelector('.input2')
+    const button1 = document.querySelector('.button1')
+
+    button1.onclick = () => {
+        const input1Value = +input1.value
+        const input2Value = +input2.value
+
+        alert(input1Value + input2Value)
+    }
+
+</script>

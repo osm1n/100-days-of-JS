@@ -1,0 +1,18 @@
+<input class="input1" type="text" />
+<button class="button1">Div by 2 return 0</button> 
+
+<script>
+    const button = document.querySelector('.button1')
+    const input = document.querySelector('.input1')
+
+    button.onclick = () => {
+        const val = input.value
+        //firstInput.value = val % 2 
+        if (+val % 2 === 0 ) {
+            input.value = 0
+        }
+
+    }
+</script>
+
+
