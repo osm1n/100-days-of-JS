@@ -13,4 +13,9 @@ Todays Progress: No new topics, just practised questions on Yesterdays topic. Th
 
 Thoughts: Creating a funtion in a function is a little challenging but after going through steps by steps and repetition, the concepts might be clear. So far So good. 
 
+## Day 4 - 21st June 2020
+Todays Progress: Learned about Closure which means a concept that allows a fucntion to keep track of variables and parameters for future use. It formally defined as > An inner function always has access to the variables and parameters of its outer function, even after the outer function has returned.. Revisited Execution Context to practice stpes by steps JS code execution. 
+
+Thoughts: Understood Closure after practising with a few examples 
+
 Tweet: [Here](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)
