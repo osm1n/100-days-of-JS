@@ -1,0 +1,6 @@
+Steps to use in solving problems
+1. Test with atleast 3 examples using Numbers, Negative, empty strings and 0
+2. Specify function parameters
+3. Explain what you need and how you will use it
+4. Follow explanation and translate it into code - Write the code
+5. Testing: begin with example parameters and verify it works as step 1
