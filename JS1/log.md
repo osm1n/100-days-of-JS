@@ -18,4 +18,10 @@ Todays Progress: Learned about Closure which means a concept that allows a fucnt
 
 Thoughts: Understood Closure after practising with a few examples. The exercises are confusing since there is no more step by step explanations. Need to figure out the questions base on the examples. I will have to revist these exercises tomorrow
 
+## Day 5 - 22nd June 2020
+Todays Progress: revisited exercises from yesterday and thank goodness the concepts are clear and somewhat easy to implement. Learned about implementing addLog instead of adding console.log() to every function. Adding Default Parameters to functions and Recursion
+
+Thoughts: 
+
+
 Tweet: [Here](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)
