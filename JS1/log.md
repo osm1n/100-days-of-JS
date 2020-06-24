@@ -27,9 +27,9 @@ Thoughts: Default parameters is a familiar topic to me, so that was a breeze. Re
 Daddy's day out with the baby.
 
 ## Day 7 - 24th une 2020
-Todays Progress: More on recursion - Steps to writing a recursive function  - 1. Figure out the variables needed, add them to the function as parameters with default values if needed. 2. A condition (base) to stop and exit the function. 3 - Recursive case - write the logic for the iteration
+Todays Progress: More on recursion - Steps to writing a recursive function  - 1. Figure out the variables needed, add them to the function as parameters with default values if needed. 2. A condition (base) to stop and exit the function. 3 - Recursive case - write the logic for the iteration. Learned only Recursion today and Exercises
 
-Thoughts: Default parameters is a familiar topic to me, so that was a breeze. Recursion is also straightforward but need a little more practice. So far so good. A few challenges and topics that needs revisiting.
+Thoughts: 
 
 
 
