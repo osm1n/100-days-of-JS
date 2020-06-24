@@ -23,5 +23,15 @@ Todays Progress: revisited exercises from yesterday and thank goodness the conce
 
 Thoughts: Default parameters is a familiar topic to me, so that was a breeze. Recursion is also straightforward but need a little more practice. So far so good. A few challenges and topics that needs revisiting. 
 
+## Day 6 - 23rd June 2020
+Daddy's day out with the baby.
+
+## Day 7 - 24th une 2020
+Todays Progress: More on recursion - Steps to writing a recursive function  - 1. Figure out the variables needed, add them to the function as parameters with default values if needed. 2. A condition (base) to stop and exit the function. 3 - Recursive case - write the logic for the iteration
+
+Thoughts: Default parameters is a familiar topic to me, so that was a breeze. Recursion is also straightforward but need a little more practice. So far so good. A few challenges and topics that needs revisiting.
+
+
+
 
 Tweet: [Here](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)
