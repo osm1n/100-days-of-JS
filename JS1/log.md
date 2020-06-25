@@ -31,6 +31,11 @@ Todays Progress: More on recursion - Steps to writing a recursive function  - 1.
 
 Thoughts: Todays exercises are hard. I have to be on a loop on this one.
 
+## Day 8 - 25th une 2020
+Todays Progress: Practice Practice Practice - Recursive Function
+
+Thoughts: Feeling very moody, just pushing through the practice questions.
+
 
 
 
