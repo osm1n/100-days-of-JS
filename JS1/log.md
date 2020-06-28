@@ -26,15 +26,20 @@ Thoughts: Default parameters is a familiar topic to me, so that was a breeze. Re
 ## Day 6 - 23rd June 2020
 Daddy's day out with the baby.
 
-## Day 7 - 24th une 2020
+## Day 7 - 24th June 2020
 Todays Progress: More on recursion - Steps to writing a recursive function  - 1. Figure out the variables needed, add them to the function as parameters with default values if needed. 2. A condition (base) to stop and exit the function. 3 - Recursive case - write the logic for the iteration. Learned only Recursion today and Exercises
 
 Thoughts: Todays exercises are hard. I have to be on a loop on this one.
 
-## Day 8 - 25th une 2020
+## Day 8 - 25th June 2020
 Todays Progress: Practice Practice Practice - Recursive Function
 
 Thoughts: Feeling very moody, just pushing through the practice questions.
+
+## Day 9- 28th June 2020
+Todays Progress: Life happened the past two days (26th and 27th) but I am back here and continued with the recursive practice. Got a hang of most of the exercises
+
+Thoughts: Exercises are great, able to solve all of them with the exception of 1 which is rather confusing. 
 
 
 
