@@ -41,6 +41,11 @@ Todays Progress: Life happened the past two days (26th and 27th) but I am back h
 
 Thoughts: Exercises are great, able to solve all of them with the exception of 1 which is rather confusing. 
 
+## Day 10- 29th June 2020
+Todays Progress: Characters and Strings. Solved the exercises in this section. And thats about it.
+
+Thoughts: Today is a good day. All went well even though i was not in mood at the beginning.
+
 
 
 
