@@ -46,6 +46,11 @@ Todays Progress: Characters and Strings. Solved the exercises in this section. A
 
 Thoughts: Today is a good day. All went well even though i was not in mood at the beginning.
 
+## Day 11- 30th June 2020
+Todays Progress: Async - describes the synchronous nature of JS. E.g setimeout() - takes in two arguments, a function and a time value, in milliseconds, the function returns only after the timer runsout. This topic concludes JS1. 
+
+Thoughts: A very short and straightforward concept although i will revisit tomorrow before starting the Challenges as this is the end of JS1. So much to unpack, i will probably do a one refresher before atempting the Challenges.
+
 
 
 
