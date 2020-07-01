@@ -1,8 +1,11 @@
-const numberedHello = (count, hello= " ") => {
-    if (count < 1 ){
-        return hello
+const numberedHello = (num, str= " ") => {
+
+    if (num < 1 ){
+        return str
     }
-    return numberedHello(count - 1, hello + "hello")
+
+    return numberedHello(num - 1, str + "Ussy")
+
 }
 
-numberedHello(5)
+console.log(numberedHello(5))
