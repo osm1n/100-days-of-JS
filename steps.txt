@@ -1,0 +1,16 @@
+cd curriculum
+cd js(x)
+git branch - to see where we are
+git checkout -b px
+git branch - it should show px as the branch
+nano question.js or editor of choice
+npm run test
+git add question.js
+git statusgi
+git commit -m "solves px"
+c0d3 submit0
+git branch
+git checkout master
+
+delete branch - git branch -D pX
+git diff master - to see difference btw master and current branch
